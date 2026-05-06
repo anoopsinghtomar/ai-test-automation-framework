@@ -50,7 +50,7 @@ Input (UI Screenshot / Description)
             ↓
    Pytest Execution Layer
 
-```
+```bash
 ai-test-automation-framework/
 │
 ├── models/
@@ -73,6 +73,4 @@ ai-test-automation-framework/
 │
 ├── main.py
 └── requirements.txt
-```
-
 .
