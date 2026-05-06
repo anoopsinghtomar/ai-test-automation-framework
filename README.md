@@ -50,7 +50,7 @@ Input (UI Screenshot / Description)
             ↓
    Pytest Execution Layer
 
-```bash
+```
 ai-test-automation-framework/
 │
 ├── models/
